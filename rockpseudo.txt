@@ -1,0 +1,8 @@
+Pseudocode:
+User input: Rock paper or scirrosr? ( 1,2,3)
+Game will chose one random? Math.Radnom (1,2,3)
+
+If user choice is rock, scissors is beaten (1 beats 2)
+If user choice is scissors paper is beaten (2 beats 3)
+If user choice is paper rock is beaten (3 beats 1)
+If the same has been chosen its a tie
